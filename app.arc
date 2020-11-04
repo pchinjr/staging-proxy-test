@@ -6,8 +6,8 @@ get /api/v2
 
 @proxy
 testing http://localhost:5555
-staging http://ghostreporter.herokuapp.com/
-production http://ghostreporter.herokuapp.com/
+staging https://ghostreporter.herokuapp.com/
+production https://ghostreporter.herokuapp.com/
 
 @tables
 data
